@@ -3,6 +3,10 @@ meta.foundation-version {
   font-family: "/5.5.3/";
 }
 
+header {
+opacity: .6;
+}
+
 #reyDel {
   font-size: 85px;
   margin-top: -30%;
