@@ -5550,6 +5550,17 @@ kbd {
     opacity: 1 !important;
     position: relative;
   }
+  #reyDel {
+    transform: scale(.3, .3);
+    margin-top: -75%;
+  }
+  #reyLogo {
+    display: none;
+  }
+
+  header {
+    opacity: 1;
+  }
   /* line 372, ../bower_components/foundation/scss/foundation/components/_orbit.scss */
   .orbit-stack-on-small .orbit-slide-number {
     display: none;
